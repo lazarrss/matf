@@ -1,1 +1,1 @@
-print("hello world")
+print(' '.join(hex(ord(c)) for c in "Hello world!"))
