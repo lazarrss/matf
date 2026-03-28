@@ -1,0 +1,1573 @@
+========================================================================================================================
+FAJL: block1_train.parquet
+========================================================================================================================
+
+Red 0:
+ - Quote id: 1
+ - Vehicle ownership duration: 0
+ - Vehicle number plate: b37e7a3f19
+ - Coverage: mtpl
+ - Claim free years: 2
+ - Payment frequency: monthly
+ - Contractor birthdate: 2005-08-09
+ - Is driver owner: da
+ - Usage: private_use
+ - Second driver birthdate: nedostaje
+ - Second driver claim free years: nedostaje
+ - Vehicle maker: audi
+ - Vehicle model: audi
+ - Vehicle fuel type: petrol
+ - Vehicle engine size: 1984
+ - Vehicle power: 147
+ - Vehicle net weight: 1235
+ - Vehicle gross weight: 1660
+ - Vehicle length: 222
+ - Vehicle width: nedostaje
+ - Vehicle height: nedostaje
+ - Vehicle number of cylinders: 4
+ - Vehicle number of doors: 2
+ - Vehicle number of seats: 4
+ - Vehicle number of wheels: 4
+ - Vehicle primary color: grey
+ - Vehicle value new: 47410
+ - Vehicle net max power: 147
+ - Vehicle net max power electric: nedostaje
+ - Vehicle nominal continuous max power: nedostaje
+ - Vehicle power to net weight ratio: 0.11
+ - Vehicle age: 16
+ - Vehicle first registration date: 2009-01-30
+ - Vehicle country first registration date: 2018-02-08
+ - Vehicle last registration date: 2025-06-28
+ - Vehicle years since country first registration: 7
+ - Vehicle inspection report date: 2025-06-06
+ - Vehicle inspection expiry date: 2026-06-11
+ - Vehicle inspection number of deficiencies found: 1
+ - Vehicle year of last odometer report: 2025
+ - Vehicle odometer verdict code: 5
+ - Vehicle planned annual mileage: 15000
+ - Vehicle is imported: da
+ - Vehicle is imported within last 12 months: ne
+ - Vehicle can be registered: da
+ - Vehicle has open recall: ne
+ - Vehicle is marked for export: ne
+ - Vehicle is taxi: ne
+ - Postal code: 80
+ - Province: Province_4
+ - Municipality: Municipality_218
+ - Municipality crimes per 1000: 2.59
+ - Postal code latitude: 52.39
+ - Postal code longitude: 5.80
+ - Postal code distance to border: 64.67
+ - Postal code urban category: 3
+ - Postal code population: 40
+ - Postal code households: 10
+ - Postal code houses: 10
+ - Postal code average household size: 3.50
+ - Postal code 0 to 15 years inhabitants ratio: 0.38
+ - Postal code 25 to 45 years inhabitants ratio: 0.25
+ - Postal code 45 to 65 years inhabitants ratio: 0.25
+ - Postal code 65 years and older inhabitants ratio: nedostaje
+ - Postal code single person households ratio: nedostaje
+ - Postal code multi person households without children ratio: nedostaje
+ - Postal code two parent households ratio: 0.50
+ - Postal code social benefit recipients ratio: nedostaje
+ - Postal code address density: 112.55
+ - Postal code average property value: 249
+ - Postal code owner occupied houses ratio: 1
+ - Postal code rental houses ratio: nedostaje
+ - Postal code houses owned by rental association ratio: nedostaje
+ - Postal code multi family houses ratio: nedostaje
+ - Postal code houses built before 1945 ratio: nedostaje
+ - Postal code houses built 45 to 65 ratio: nedostaje
+ - Postal code houses built 65 to 75 ratio: 1
+ - Postal code houses built 75 to 85 ratio: nedostaje
+ - Postal code houses built 85 to 95 ratio: nedostaje
+ - Postal code houses built 95 to 05 ratio: nedostaje
+ - Postal code houses built 05 to 15 ratio: nedostaje
+ - Postal code nearest train station distance: 2.50
+ - Postal code nearest train transfer station distance: 26.50
+ - Postal code nearest motorway ramp distance: 1.10
+ - Postal code nearest hospital excl clinic distance: 15.30
+ - Postal code nearest hospital incl clinic distance: 14.60
+ - Postal code nearest general practitioner distance: 0.80
+ - Postal code nearest gp post service distance: 15.30
+ - Postal code nearest pharmacy distance: 0.90
+ - Postal code nearest primary school distance: 0.20
+ - Postal code nearest secondary school distance: 1.40
+ - Postal code nearest secondary school havo vwo distance: 8.20
+ - Postal code nearest secondary school vmbo distance: 1.40
+ - Postal code nearest supermarket distance: 0.80
+ - Postal code nearest groceries distance: 0.90
+ - Postal code nearest restaurant distance: 1.70
+ - Postal code nearest cafe distance: 1.90
+ - Postal code nearest snackbar distance: 0.60
+ - Postal code nearest hotel distance: 1.40
+ - Postal code nearest library distance: 1.30
+ - Postal code nearest museum distance: 2.30
+ - Postal code nearest cinema distance: 14
+ - Postal code nearest department store distance: 2.10
+ - Postal code nearest fire station distance: 1.40
+ - Postal code nearest daycare distance: 0.20
+ - Postal code nearest after school care distance: 0.30
+ - Postal code nearest attraction distance: 4.20
+ - Postal code nearest performance venue distance: 13.80
+ - Postal code nearest music venue distance: 13.80
+ - Postal code nearest swimming pool distance: 0.30
+ - Postal code nearest ice rink distance: 19.20
+ - Postal code nearest sauna distance: 9.90
+ - Postal code nearest tanning salon distance: 15.40
+ - Postal code hospitals excl clinic within 10 km: nedostaje
+ - Postal code hospitals incl clinic within 10 km: nedostaje
+ - Postal code general practitioners within 3 km: 4
+ - Postal code primary schools within 3 km: 7
+ - Postal code secondary schools within 5 km: 1
+ - Postal code secondary schools havo vwo within 5 km: nedostaje
+ - Postal code secondary schools vmbo within 5 km: 1
+ - Postal code supermarkets within 3 km: 6
+ - Postal code groceries within 3 km: 25.50
+ - Postal code restaurants within 3 km: 21
+ - Postal code cafes within 3 km: 3
+ - Postal code snackbars within 3 km: 12.50
+ - Postal code hotels within 10 km: 15.50
+ - Postal code museums within 10 km: 5
+ - Postal code cinemas within 10 km: nedostaje
+ - Postal code department stores within 10 km: 2
+ - Postal code daycares within 3 km: 8.50
+ - Postal code after school cares within 3 km: 6.50
+ - Postal code attractions within 20 km: 5
+ - Postal code performance venues within 10 km: nedostaje
+ - Insurer A deductible: 0
+ - Insurer B deductible: nedostaje
+ - Insurer C deductible: nedostaje
+ - Insurer D deductible: nedostaje
+ - Insurer E deductible: nedostaje
+ - Insurer F deductible: 0
+ - Insurer G deductible: nedostaje
+ - Insurer H deductible: nedostaje
+ - Insurer I deductible: nedostaje
+ - Insurer J deductible: nedostaje
+ - Insurer K deductible: nedostaje
+ - Insurer A price: 119.76
+ - Insurer B price: nedostaje
+ - Insurer C price: nedostaje
+ - Insurer D price: nedostaje
+ - Insurer E price: nedostaje
+ - Insurer F price: 101.10
+ - Insurer G price: nedostaje
+ - Insurer H price: nedostaje
+ - Insurer I price: nedostaje
+ - Insurer J price: nedostaje
+ - Insurer K price: nedostaje
+
+Red 1:
+ - Quote id: 2
+ - Vehicle ownership duration: 0
+ - Vehicle number plate: 9d65089849
+ - Coverage: limited_casco
+ - Claim free years: 0
+ - Payment frequency: monthly
+ - Contractor birthdate: 2002-02-06
+ - Is driver owner: da
+ - Usage: private_use
+ - Second driver birthdate: nedostaje
+ - Second driver claim free years: nedostaje
+ - Vehicle maker: volvo
+ - Vehicle model: v60
+ - Vehicle fuel type: diesel
+ - Vehicle engine size: 1969
+ - Vehicle power: 110
+ - Vehicle net weight: 1532
+ - Vehicle gross weight: 2170
+ - Vehicle length: 464
+ - Vehicle width: 187
+ - Vehicle height: 152
+ - Vehicle number of cylinders: 4
+ - Vehicle number of doors: 5
+ - Vehicle number of seats: 5
+ - Vehicle number of wheels: 4
+ - Vehicle primary color: brown
+ - Vehicle value new: 45105
+ - Vehicle net max power: 110
+ - Vehicle net max power electric: nedostaje
+ - Vehicle nominal continuous max power: nedostaje
+ - Vehicle power to net weight ratio: 0.07
+ - Vehicle age: 8
+ - Vehicle first registration date: 2017-09-18
+ - Vehicle country first registration date: 2017-09-18
+ - Vehicle last registration date: 2025-07-21
+ - Vehicle years since country first registration: 8
+ - Vehicle inspection report date: 2024-10-23
+ - Vehicle inspection expiry date: 2026-11-10
+ - Vehicle inspection number of deficiencies found: 1
+ - Vehicle year of last odometer report: 2025
+ - Vehicle odometer verdict code: 0
+ - Vehicle planned annual mileage: 30000
+ - Vehicle is imported: ne
+ - Vehicle is imported within last 12 months: ne
+ - Vehicle can be registered: da
+ - Vehicle has open recall: ne
+ - Vehicle is marked for export: ne
+ - Vehicle is taxi: ne
+ - Postal code: 30
+ - Province: Province_12
+ - Municipality: Municipality_257
+ - Municipality crimes per 1000: 6.95
+ - Postal code latitude: 51.93
+ - Postal code longitude: 4.47
+ - Postal code distance to border: 50.48
+ - Postal code urban category: 1
+ - Postal code population: 40
+ - Postal code households: 30
+ - Postal code houses: 20
+ - Postal code average household size: 1.40
+ - Postal code 0 to 15 years inhabitants ratio: nedostaje
+ - Postal code 25 to 45 years inhabitants ratio: 0.38
+ - Postal code 45 to 65 years inhabitants ratio: 0.25
+ - Postal code 65 years and older inhabitants ratio: nedostaje
+ - Postal code single person households ratio: 0.67
+ - Postal code multi person households without children ratio: nedostaje
+ - Postal code two parent households ratio: nedostaje
+ - Postal code social benefit recipients ratio: nedostaje
+ - Postal code address density: 746.09
+ - Postal code average property value: 199
+ - Postal code owner occupied houses ratio: nedostaje
+ - Postal code rental houses ratio: nedostaje
+ - Postal code houses owned by rental association ratio: nedostaje
+ - Postal code multi family houses ratio: 1
+ - Postal code houses built before 1945 ratio: 1
+ - Postal code houses built 45 to 65 ratio: nedostaje
+ - Postal code houses built 65 to 75 ratio: nedostaje
+ - Postal code houses built 75 to 85 ratio: nedostaje
+ - Postal code houses built 85 to 95 ratio: nedostaje
+ - Postal code houses built 95 to 05 ratio: nedostaje
+ - Postal code houses built 05 to 15 ratio: nedostaje
+ - Postal code nearest train station distance: 1.40
+ - Postal code nearest train transfer station distance: 1.40
+ - Postal code nearest motorway ramp distance: 1.30
+ - Postal code nearest hospital excl clinic distance: 1.70
+ - Postal code nearest hospital incl clinic distance: 1.70
+ - Postal code nearest general practitioner distance: 0.30
+ - Postal code nearest gp post service distance: 1.70
+ - Postal code nearest pharmacy distance: 0.40
+ - Postal code nearest primary school distance: 0.50
+ - Postal code nearest secondary school distance: 0.20
+ - Postal code nearest secondary school havo vwo distance: 1.10
+ - Postal code nearest secondary school vmbo distance: 0.20
+ - Postal code nearest supermarket distance: 0.40
+ - Postal code nearest groceries distance: 0.30
+ - Postal code nearest restaurant distance: 0.30
+ - Postal code nearest cafe distance: 0.20
+ - Postal code nearest snackbar distance: 0.20
+ - Postal code nearest hotel distance: 0.30
+ - Postal code nearest library distance: 1.20
+ - Postal code nearest museum distance: 1.60
+ - Postal code nearest cinema distance: 0.50
+ - Postal code nearest department store distance: 1.30
+ - Postal code nearest fire station distance: 2.20
+ - Postal code nearest daycare distance: 0.50
+ - Postal code nearest after school care distance: 0.70
+ - Postal code nearest attraction distance: 1.70
+ - Postal code nearest performance venue distance: 0.60
+ - Postal code nearest music venue distance: 0.60
+ - Postal code nearest swimming pool distance: 0.80
+ - Postal code nearest ice rink distance: 4.80
+ - Postal code nearest sauna distance: 0.50
+ - Postal code nearest tanning salon distance: 0.90
+ - Postal code hospitals excl clinic within 10 km: 7
+ - Postal code hospitals incl clinic within 10 km: 12
+ - Postal code general practitioners within 3 km: 38
+ - Postal code primary schools within 3 km: 34
+ - Postal code secondary schools within 5 km: 38
+ - Postal code secondary schools havo vwo within 5 km: 17
+ - Postal code secondary schools vmbo within 5 km: 27
+ - Postal code supermarkets within 3 km: 50
+ - Postal code groceries within 3 km: 334
+ - Postal code restaurants within 3 km: 441
+ - Postal code cafes within 3 km: 227
+ - Postal code snackbars within 3 km: 378
+ - Postal code hotels within 10 km: 75
+ - Postal code museums within 10 km: 20
+ - Postal code cinemas within 10 km: 9
+ - Postal code department stores within 10 km: 20
+ - Postal code daycares within 3 km: 89
+ - Postal code after school cares within 3 km: 54
+ - Postal code attractions within 20 km: 25
+ - Postal code performance venues within 10 km: 22
+ - Insurer A deductible: 150
+ - Insurer B deductible: nedostaje
+ - Insurer C deductible: 135
+ - Insurer D deductible: 0
+ - Insurer E deductible: 150
+ - Insurer F deductible: 0
+ - Insurer G deductible: nedostaje
+ - Insurer H deductible: nedostaje
+ - Insurer I deductible: nedostaje
+ - Insurer J deductible: 150
+ - Insurer K deductible: 0
+ - Insurer A price: 233.79
+ - Insurer B price: nedostaje
+ - Insurer C price: 258.93
+ - Insurer D price: 362.20
+ - Insurer E price: 298.19
+ - Insurer F price: 280.10
+ - Insurer G price: nedostaje
+ - Insurer H price: nedostaje
+ - Insurer I price: nedostaje
+ - Insurer J price: 331.69
+ - Insurer K price: 607.38
+
+Red 2:
+ - Quote id: 3
+ - Vehicle ownership duration: 1
+ - Vehicle number plate: ec2c02194e
+ - Coverage: mtpl
+ - Claim free years: 5
+ - Payment frequency: monthly
+ - Contractor birthdate: 2000-05-31
+ - Is driver owner: da
+ - Usage: private_use
+ - Second driver birthdate: nedostaje
+ - Second driver claim free years: nedostaje
+ - Vehicle maker: peugeot
+ - Vehicle model: peugeot
+ - Vehicle fuel type: petrol
+ - Vehicle engine size: 998
+ - Vehicle power: 50
+ - Vehicle net weight: 765
+ - Vehicle gross weight: 1180
+ - Vehicle length: 333
+ - Vehicle width: nedostaje
+ - Vehicle height: nedostaje
+ - Vehicle number of cylinders: 3
+ - Vehicle number of doors: 2
+ - Vehicle number of seats: 4
+ - Vehicle number of wheels: 4
+ - Vehicle primary color: grey
+ - Vehicle value new: 15900
+ - Vehicle net max power: 50
+ - Vehicle net max power electric: nedostaje
+ - Vehicle nominal continuous max power: nedostaje
+ - Vehicle power to net weight ratio: 0.06
+ - Vehicle age: 17
+ - Vehicle first registration date: 2008-05-16
+ - Vehicle country first registration date: 2016-06-23
+ - Vehicle last registration date: 2024-07-12
+ - Vehicle years since country first registration: 9
+ - Vehicle inspection report date: 2025-05-06
+ - Vehicle inspection expiry date: 2026-05-10
+ - Vehicle inspection number of deficiencies found: 1
+ - Vehicle year of last odometer report: 2025
+ - Vehicle odometer verdict code: 5
+ - Vehicle planned annual mileage: 12000
+ - Vehicle is imported: da
+ - Vehicle is imported within last 12 months: ne
+ - Vehicle can be registered: da
+ - Vehicle has open recall: ne
+ - Vehicle is marked for export: ne
+ - Vehicle is taxi: ne
+ - Postal code: 59
+ - Province: Province_6
+ - Municipality: Municipality_309
+ - Municipality crimes per 1000: 5.14
+ - Postal code latitude: 51.38
+ - Postal code longitude: 6.14
+ - Postal code distance to border: 6.01
+ - Postal code urban category: 2
+ - Postal code population: 80
+ - Postal code households: 25
+ - Postal code houses: 25
+ - Postal code average household size: 3.40
+ - Postal code 0 to 15 years inhabitants ratio: 0.38
+ - Postal code 25 to 45 years inhabitants ratio: 0.31
+ - Postal code 45 to 65 years inhabitants ratio: 0.12
+ - Postal code 65 years and older inhabitants ratio: nedostaje
+ - Postal code single person households ratio: nedostaje
+ - Postal code multi person households without children ratio: nedostaje
+ - Postal code two parent households ratio: 0.40
+ - Postal code social benefit recipients ratio: 0.12
+ - Postal code address density: 97.83
+ - Postal code average property value: 134
+ - Postal code owner occupied houses ratio: 0.30
+ - Postal code rental houses ratio: 0.70
+ - Postal code houses owned by rental association ratio: nedostaje
+ - Postal code multi family houses ratio: nedostaje
+ - Postal code houses built before 1945 ratio: nedostaje
+ - Postal code houses built 45 to 65 ratio: nedostaje
+ - Postal code houses built 65 to 75 ratio: 1
+ - Postal code houses built 75 to 85 ratio: nedostaje
+ - Postal code houses built 85 to 95 ratio: nedostaje
+ - Postal code houses built 95 to 05 ratio: nedostaje
+ - Postal code houses built 05 to 15 ratio: nedostaje
+ - Postal code nearest train station distance: 1.60
+ - Postal code nearest train transfer station distance: 2.90
+ - Postal code nearest motorway ramp distance: 0.70
+ - Postal code nearest hospital excl clinic distance: 3.90
+ - Postal code nearest hospital incl clinic distance: 3.90
+ - Postal code nearest general practitioner distance: 0.50
+ - Postal code nearest gp post service distance: 3.30
+ - Postal code nearest pharmacy distance: 0.50
+ - Postal code nearest primary school distance: 0.20
+ - Postal code nearest secondary school distance: 0.70
+ - Postal code nearest secondary school havo vwo distance: 0.70
+ - Postal code nearest secondary school vmbo distance: 0.70
+ - Postal code nearest supermarket distance: 0.20
+ - Postal code nearest groceries distance: 0.10
+ - Postal code nearest restaurant distance: 0.30
+ - Postal code nearest cafe distance: 1
+ - Postal code nearest snackbar distance: 0.20
+ - Postal code nearest hotel distance: 2.10
+ - Postal code nearest library distance: 1.80
+ - Postal code nearest museum distance: 2.90
+ - Postal code nearest cinema distance: 2.90
+ - Postal code nearest department store distance: 1.50
+ - Postal code nearest fire station distance: 4
+ - Postal code nearest daycare distance: 0.20
+ - Postal code nearest after school care distance: 0.90
+ - Postal code nearest attraction distance: 2.10
+ - Postal code nearest performance venue distance: 2.70
+ - Postal code nearest music venue distance: 3.50
+ - Postal code nearest swimming pool distance: 1.20
+ - Postal code nearest ice rink distance: 50.30
+ - Postal code nearest sauna distance: 10.60
+ - Postal code nearest tanning salon distance: 1.60
+ - Postal code hospitals excl clinic within 10 km: 1
+ - Postal code hospitals incl clinic within 10 km: 1
+ - Postal code general practitioners within 3 km: 3
+ - Postal code primary schools within 3 km: 7
+ - Postal code secondary schools within 5 km: 4
+ - Postal code secondary schools havo vwo within 5 km: 3
+ - Postal code secondary schools vmbo within 5 km: 4
+ - Postal code supermarkets within 3 km: 10.90
+ - Postal code groceries within 3 km: 31.30
+ - Postal code restaurants within 3 km: 54.90
+ - Postal code cafes within 3 km: 33.50
+ - Postal code snackbars within 3 km: 52.60
+ - Postal code hotels within 10 km: 15
+ - Postal code museums within 10 km: 4
+ - Postal code cinemas within 10 km: 2
+ - Postal code department stores within 10 km: 3
+ - Postal code daycares within 3 km: 11
+ - Postal code after school cares within 3 km: 7
+ - Postal code attractions within 20 km: 5
+ - Postal code performance venues within 10 km: 2
+ - Insurer A deductible: 0
+ - Insurer B deductible: 0
+ - Insurer C deductible: nedostaje
+ - Insurer D deductible: 0
+ - Insurer E deductible: 0
+ - Insurer F deductible: nedostaje
+ - Insurer G deductible: 0
+ - Insurer H deductible: 0
+ - Insurer I deductible: nedostaje
+ - Insurer J deductible: nedostaje
+ - Insurer K deductible: 0
+ - Insurer A price: 54.01
+ - Insurer B price: 82.39
+ - Insurer C price: nedostaje
+ - Insurer D price: 59.47
+ - Insurer E price: 122.63
+ - Insurer F price: nedostaje
+ - Insurer G price: 59.23
+ - Insurer H price: 66.09
+ - Insurer I price: nedostaje
+ - Insurer J price: nedostaje
+ - Insurer K price: 73.74
+
+Red 3:
+ - Quote id: 4
+ - Vehicle ownership duration: 0
+ - Vehicle number plate: 9d65089849
+ - Coverage: limited_casco
+ - Claim free years: 5
+ - Payment frequency: monthly
+ - Contractor birthdate: 2002-02-06
+ - Is driver owner: da
+ - Usage: private_use
+ - Second driver birthdate: nedostaje
+ - Second driver claim free years: nedostaje
+ - Vehicle maker: volvo
+ - Vehicle model: v60
+ - Vehicle fuel type: diesel
+ - Vehicle engine size: 1969
+ - Vehicle power: 110
+ - Vehicle net weight: 1532
+ - Vehicle gross weight: 2170
+ - Vehicle length: 464
+ - Vehicle width: 187
+ - Vehicle height: 152
+ - Vehicle number of cylinders: 4
+ - Vehicle number of doors: 5
+ - Vehicle number of seats: 5
+ - Vehicle number of wheels: 4
+ - Vehicle primary color: brown
+ - Vehicle value new: 45105
+ - Vehicle net max power: 110
+ - Vehicle net max power electric: nedostaje
+ - Vehicle nominal continuous max power: nedostaje
+ - Vehicle power to net weight ratio: 0.07
+ - Vehicle age: 8
+ - Vehicle first registration date: 2017-09-18
+ - Vehicle country first registration date: 2017-09-18
+ - Vehicle last registration date: 2025-07-21
+ - Vehicle years since country first registration: 8
+ - Vehicle inspection report date: 2024-10-23
+ - Vehicle inspection expiry date: 2026-11-10
+ - Vehicle inspection number of deficiencies found: 1
+ - Vehicle year of last odometer report: 2025
+ - Vehicle odometer verdict code: 0
+ - Vehicle planned annual mileage: 30000
+ - Vehicle is imported: ne
+ - Vehicle is imported within last 12 months: ne
+ - Vehicle can be registered: da
+ - Vehicle has open recall: ne
+ - Vehicle is marked for export: ne
+ - Vehicle is taxi: ne
+ - Postal code: 30
+ - Province: Province_12
+ - Municipality: Municipality_257
+ - Municipality crimes per 1000: 6.95
+ - Postal code latitude: 51.93
+ - Postal code longitude: 4.47
+ - Postal code distance to border: 50.48
+ - Postal code urban category: 1
+ - Postal code population: 40
+ - Postal code households: 30
+ - Postal code houses: 20
+ - Postal code average household size: 1.40
+ - Postal code 0 to 15 years inhabitants ratio: nedostaje
+ - Postal code 25 to 45 years inhabitants ratio: 0.38
+ - Postal code 45 to 65 years inhabitants ratio: 0.25
+ - Postal code 65 years and older inhabitants ratio: nedostaje
+ - Postal code single person households ratio: 0.67
+ - Postal code multi person households without children ratio: nedostaje
+ - Postal code two parent households ratio: nedostaje
+ - Postal code social benefit recipients ratio: nedostaje
+ - Postal code address density: 746.09
+ - Postal code average property value: 199
+ - Postal code owner occupied houses ratio: nedostaje
+ - Postal code rental houses ratio: nedostaje
+ - Postal code houses owned by rental association ratio: nedostaje
+ - Postal code multi family houses ratio: 1
+ - Postal code houses built before 1945 ratio: 1
+ - Postal code houses built 45 to 65 ratio: nedostaje
+ - Postal code houses built 65 to 75 ratio: nedostaje
+ - Postal code houses built 75 to 85 ratio: nedostaje
+ - Postal code houses built 85 to 95 ratio: nedostaje
+ - Postal code houses built 95 to 05 ratio: nedostaje
+ - Postal code houses built 05 to 15 ratio: nedostaje
+ - Postal code nearest train station distance: 1.40
+ - Postal code nearest train transfer station distance: 1.40
+ - Postal code nearest motorway ramp distance: 1.30
+ - Postal code nearest hospital excl clinic distance: 1.70
+ - Postal code nearest hospital incl clinic distance: 1.70
+ - Postal code nearest general practitioner distance: 0.30
+ - Postal code nearest gp post service distance: 1.70
+ - Postal code nearest pharmacy distance: 0.40
+ - Postal code nearest primary school distance: 0.50
+ - Postal code nearest secondary school distance: 0.20
+ - Postal code nearest secondary school havo vwo distance: 1.10
+ - Postal code nearest secondary school vmbo distance: 0.20
+ - Postal code nearest supermarket distance: 0.40
+ - Postal code nearest groceries distance: 0.30
+ - Postal code nearest restaurant distance: 0.30
+ - Postal code nearest cafe distance: 0.20
+ - Postal code nearest snackbar distance: 0.20
+ - Postal code nearest hotel distance: 0.30
+ - Postal code nearest library distance: 1.20
+ - Postal code nearest museum distance: 1.60
+ - Postal code nearest cinema distance: 0.50
+ - Postal code nearest department store distance: 1.30
+ - Postal code nearest fire station distance: 2.20
+ - Postal code nearest daycare distance: 0.50
+ - Postal code nearest after school care distance: 0.70
+ - Postal code nearest attraction distance: 1.70
+ - Postal code nearest performance venue distance: 0.60
+ - Postal code nearest music venue distance: 0.60
+ - Postal code nearest swimming pool distance: 0.80
+ - Postal code nearest ice rink distance: 4.80
+ - Postal code nearest sauna distance: 0.50
+ - Postal code nearest tanning salon distance: 0.90
+ - Postal code hospitals excl clinic within 10 km: 7
+ - Postal code hospitals incl clinic within 10 km: 12
+ - Postal code general practitioners within 3 km: 38
+ - Postal code primary schools within 3 km: 34
+ - Postal code secondary schools within 5 km: 38
+ - Postal code secondary schools havo vwo within 5 km: 17
+ - Postal code secondary schools vmbo within 5 km: 27
+ - Postal code supermarkets within 3 km: 50
+ - Postal code groceries within 3 km: 334
+ - Postal code restaurants within 3 km: 441
+ - Postal code cafes within 3 km: 227
+ - Postal code snackbars within 3 km: 378
+ - Postal code hotels within 10 km: 75
+ - Postal code museums within 10 km: 20
+ - Postal code cinemas within 10 km: 9
+ - Postal code department stores within 10 km: 20
+ - Postal code daycares within 3 km: 89
+ - Postal code after school cares within 3 km: 54
+ - Postal code attractions within 20 km: 25
+ - Postal code performance venues within 10 km: 22
+ - Insurer A deductible: 150
+ - Insurer B deductible: nedostaje
+ - Insurer C deductible: 135
+ - Insurer D deductible: 0
+ - Insurer E deductible: 150
+ - Insurer F deductible: 0
+ - Insurer G deductible: nedostaje
+ - Insurer H deductible: nedostaje
+ - Insurer I deductible: nedostaje
+ - Insurer J deductible: 150
+ - Insurer K deductible: 0
+ - Insurer A price: 160.86
+ - Insurer B price: nedostaje
+ - Insurer C price: 174.81
+ - Insurer D price: 246.30
+ - Insurer E price: 211.29
+ - Insurer F price: 191.73
+ - Insurer G price: nedostaje
+ - Insurer H price: nedostaje
+ - Insurer I price: nedostaje
+ - Insurer J price: 199.26
+ - Insurer K price: 370.03
+
+Red 4:
+ - Quote id: 5
+ - Vehicle ownership duration: 0
+ - Vehicle number plate: 27c0f9d91d
+ - Coverage: limited_casco
+ - Claim free years: 3
+ - Payment frequency: monthly
+ - Contractor birthdate: 2005-09-21
+ - Is driver owner: da
+ - Usage: private_use
+ - Second driver birthdate: nedostaje
+ - Second driver claim free years: nedostaje
+ - Vehicle maker: opel
+ - Vehicle model: corsa
+ - Vehicle fuel type: petrol
+ - Vehicle engine size: 1229
+ - Vehicle power: 59
+ - Vehicle net weight: 1030
+ - Vehicle gross weight: 1575
+ - Vehicle length: 379
+ - Vehicle width: nedostaje
+ - Vehicle height: nedostaje
+ - Vehicle number of cylinders: 4
+ - Vehicle number of doors: 2
+ - Vehicle number of seats: 5
+ - Vehicle number of wheels: 4
+ - Vehicle primary color: grey
+ - Vehicle value new: 16041
+ - Vehicle net max power: 59
+ - Vehicle net max power electric: nedostaje
+ - Vehicle nominal continuous max power: nedostaje
+ - Vehicle power to net weight ratio: 0.05
+ - Vehicle age: 18
+ - Vehicle first registration date: 2007-04-18
+ - Vehicle country first registration date: 2007-04-18
+ - Vehicle last registration date: 2025-11-25
+ - Vehicle years since country first registration: 18
+ - Vehicle inspection report date: 2025-07-03
+ - Vehicle inspection expiry date: 2026-07-06
+ - Vehicle inspection number of deficiencies found: 1
+ - Vehicle year of last odometer report: 2025
+ - Vehicle odometer verdict code: 4
+ - Vehicle planned annual mileage: 10000
+ - Vehicle is imported: ne
+ - Vehicle is imported within last 12 months: ne
+ - Vehicle can be registered: da
+ - Vehicle has open recall: ne
+ - Vehicle is marked for export: ne
+ - Vehicle is taxi: ne
+ - Postal code: 69
+ - Province: Province_4
+ - Municipality: Municipality_333
+ - Municipality crimes per 1000: 2.53
+ - Postal code latitude: 51.95
+ - Postal code longitude: 5.97
+ - Postal code distance to border: 13.24
+ - Postal code urban category: 3
+ - Postal code population: 50
+ - Postal code households: 20
+ - Postal code houses: 20
+ - Postal code average household size: 2.50
+ - Postal code 0 to 15 years inhabitants ratio: 0.10
+ - Postal code 25 to 45 years inhabitants ratio: 0.30
+ - Postal code 45 to 65 years inhabitants ratio: 0.40
+ - Postal code 65 years and older inhabitants ratio: nedostaje
+ - Postal code single person households ratio: 0.25
+ - Postal code multi person households without children ratio: nedostaje
+ - Postal code two parent households ratio: 0.50
+ - Postal code social benefit recipients ratio: 0.10
+ - Postal code address density: 78.88
+ - Postal code average property value: nedostaje
+ - Postal code owner occupied houses ratio: nedostaje
+ - Postal code rental houses ratio: nedostaje
+ - Postal code houses owned by rental association ratio: nedostaje
+ - Postal code multi family houses ratio: nedostaje
+ - Postal code houses built before 1945 ratio: nedostaje
+ - Postal code houses built 45 to 65 ratio: nedostaje
+ - Postal code houses built 65 to 75 ratio: nedostaje
+ - Postal code houses built 75 to 85 ratio: 1
+ - Postal code houses built 85 to 95 ratio: nedostaje
+ - Postal code houses built 95 to 05 ratio: nedostaje
+ - Postal code houses built 05 to 15 ratio: nedostaje
+ - Postal code nearest train station distance: 2
+ - Postal code nearest train transfer station distance: 8.10
+ - Postal code nearest motorway ramp distance: 3.40
+ - Postal code nearest hospital excl clinic distance: 9
+ - Postal code nearest hospital incl clinic distance: 6.30
+ - Postal code nearest general practitioner distance: 0.50
+ - Postal code nearest gp post service distance: 8.90
+ - Postal code nearest pharmacy distance: 0.50
+ - Postal code nearest primary school distance: 0.60
+ - Postal code nearest secondary school distance: 3.50
+ - Postal code nearest secondary school havo vwo distance: 4
+ - Postal code nearest secondary school vmbo distance: 3.50
+ - Postal code nearest supermarket distance: 0.80
+ - Postal code nearest groceries distance: 0.80
+ - Postal code nearest restaurant distance: 1.10
+ - Postal code nearest cafe distance: 2.10
+ - Postal code nearest snackbar distance: 0.80
+ - Postal code nearest hotel distance: 3.10
+ - Postal code nearest library distance: 2.10
+ - Postal code nearest museum distance: 6.50
+ - Postal code nearest cinema distance: 7.60
+ - Postal code nearest department store distance: 2
+ - Postal code nearest fire station distance: 4.60
+ - Postal code nearest daycare distance: 0.50
+ - Postal code nearest after school care distance: 0.60
+ - Postal code nearest attraction distance: 5.10
+ - Postal code nearest performance venue distance: 6.70
+ - Postal code nearest music venue distance: 7.70
+ - Postal code nearest swimming pool distance: 4.70
+ - Postal code nearest ice rink distance: 23.80
+ - Postal code nearest sauna distance: 7.40
+ - Postal code nearest tanning salon distance: 1.80
+ - Postal code hospitals excl clinic within 10 km: 2
+ - Postal code hospitals incl clinic within 10 km: 4
+ - Postal code general practitioners within 3 km: 2
+ - Postal code primary schools within 3 km: 5
+ - Postal code secondary schools within 5 km: 3
+ - Postal code secondary schools havo vwo within 5 km: 1
+ - Postal code secondary schools vmbo within 5 km: 2
+ - Postal code supermarkets within 3 km: 4
+ - Postal code groceries within 3 km: 12
+ - Postal code restaurants within 3 km: 6
+ - Postal code cafes within 3 km: 4
+ - Postal code snackbars within 3 km: 3
+ - Postal code hotels within 10 km: 19
+ - Postal code museums within 10 km: 8
+ - Postal code cinemas within 10 km: 4
+ - Postal code department stores within 10 km: 8
+ - Postal code daycares within 3 km: 6
+ - Postal code after school cares within 3 km: 6
+ - Postal code attractions within 20 km: 6
+ - Postal code performance venues within 10 km: 10
+ - Insurer A deductible: 150
+ - Insurer B deductible: 150
+ - Insurer C deductible: nedostaje
+ - Insurer D deductible: nedostaje
+ - Insurer E deductible: nedostaje
+ - Insurer F deductible: 0
+ - Insurer G deductible: nedostaje
+ - Insurer H deductible: nedostaje
+ - Insurer I deductible: 0
+ - Insurer J deductible: nedostaje
+ - Insurer K deductible: 150
+ - Insurer A price: 121.53
+ - Insurer B price: 202.14
+ - Insurer C price: nedostaje
+ - Insurer D price: nedostaje
+ - Insurer E price: nedostaje
+ - Insurer F price: 141.07
+ - Insurer G price: nedostaje
+ - Insurer H price: nedostaje
+ - Insurer I price: 214.38
+ - Insurer J price: nedostaje
+ - Insurer K price: 163.05
+
+Red 5:
+ - Quote id: 6
+ - Vehicle ownership duration: 0
+ - Vehicle number plate: fd313a654f
+ - Coverage: casco
+ - Claim free years: 0
+ - Payment frequency: yearly
+ - Contractor birthdate: 1998-11-07
+ - Is driver owner: da
+ - Usage: private_use
+ - Second driver birthdate: nedostaje
+ - Second driver claim free years: nedostaje
+ - Vehicle maker: toyota
+ - Vehicle model: toyota
+ - Vehicle fuel type: petrol_electric_hybrid
+ - Vehicle engine size: 1497
+ - Vehicle power: 54
+ - Vehicle net weight: 1050
+ - Vehicle gross weight: 1565
+ - Vehicle length: 395
+ - Vehicle width: 170
+ - Vehicle height: 151
+ - Vehicle number of cylinders: 4
+ - Vehicle number of doors: 4
+ - Vehicle number of seats: 5
+ - Vehicle number of wheels: 4
+ - Vehicle primary color: white
+ - Vehicle value new: 22260
+ - Vehicle net max power: 54
+ - Vehicle net max power electric: 45
+ - Vehicle nominal continuous max power: 10
+ - Vehicle power to net weight ratio: 0.05
+ - Vehicle age: 5
+ - Vehicle first registration date: 2020-02-07
+ - Vehicle country first registration date: 2020-02-07
+ - Vehicle last registration date: 2025-05-16
+ - Vehicle years since country first registration: 5
+ - Vehicle inspection report date: nedostaje
+ - Vehicle inspection expiry date: 2027-05-14
+ - Vehicle inspection number of deficiencies found: nedostaje
+ - Vehicle year of last odometer report: 2025
+ - Vehicle odometer verdict code: 0
+ - Vehicle planned annual mileage: 7500
+ - Vehicle is imported: ne
+ - Vehicle is imported within last 12 months: ne
+ - Vehicle can be registered: da
+ - Vehicle has open recall: ne
+ - Vehicle is marked for export: ne
+ - Vehicle is taxi: ne
+ - Postal code: 13
+ - Province: Province_2
+ - Municipality: Municipality_11
+ - Municipality crimes per 1000: 3.42
+ - Postal code latitude: 52.35
+ - Postal code longitude: 5.16
+ - Postal code distance to border: 98.38
+ - Postal code urban category: 3
+ - Postal code population: 60
+ - Postal code households: 20
+ - Postal code houses: 20
+ - Postal code average household size: 2.90
+ - Postal code 0 to 15 years inhabitants ratio: 0.17
+ - Postal code 25 to 45 years inhabitants ratio: 0.17
+ - Postal code 45 to 65 years inhabitants ratio: 0.33
+ - Postal code 65 years and older inhabitants ratio: 0.17
+ - Postal code single person households ratio: 0.25
+ - Postal code multi person households without children ratio: 0.25
+ - Postal code two parent households ratio: 0.50
+ - Postal code social benefit recipients ratio: 0.08
+ - Postal code address density: 71
+ - Postal code average property value: 486
+ - Postal code owner occupied houses ratio: 0.90
+ - Postal code rental houses ratio: nedostaje
+ - Postal code houses owned by rental association ratio: nedostaje
+ - Postal code multi family houses ratio: nedostaje
+ - Postal code houses built before 1945 ratio: nedostaje
+ - Postal code houses built 45 to 65 ratio: nedostaje
+ - Postal code houses built 65 to 75 ratio: nedostaje
+ - Postal code houses built 75 to 85 ratio: nedostaje
+ - Postal code houses built 85 to 95 ratio: nedostaje
+ - Postal code houses built 95 to 05 ratio: nedostaje
+ - Postal code houses built 05 to 15 ratio: 1
+ - Postal code nearest train station distance: 2.40
+ - Postal code nearest train transfer station distance: 6.80
+ - Postal code nearest motorway ramp distance: 1.70
+ - Postal code nearest hospital excl clinic distance: 6.60
+ - Postal code nearest hospital incl clinic distance: 0.90
+ - Postal code nearest general practitioner distance: 0.40
+ - Postal code nearest gp post service distance: 6.60
+ - Postal code nearest pharmacy distance: 0.40
+ - Postal code nearest primary school distance: 0.60
+ - Postal code nearest secondary school distance: 1
+ - Postal code nearest secondary school havo vwo distance: 1
+ - Postal code nearest secondary school vmbo distance: 1
+ - Postal code nearest supermarket distance: 0.50
+ - Postal code nearest groceries distance: 0.50
+ - Postal code nearest restaurant distance: 0.50
+ - Postal code nearest cafe distance: 2.60
+ - Postal code nearest snackbar distance: 0.50
+ - Postal code nearest hotel distance: 2
+ - Postal code nearest library distance: 1
+ - Postal code nearest museum distance: 10.10
+ - Postal code nearest cinema distance: 6.50
+ - Postal code nearest department store distance: 6.30
+ - Postal code nearest fire station distance: 7
+ - Postal code nearest daycare distance: 0.50
+ - Postal code nearest after school care distance: 0.60
+ - Postal code nearest attraction distance: 6.10
+ - Postal code nearest performance venue distance: 6.30
+ - Postal code nearest music venue distance: 6.50
+ - Postal code nearest swimming pool distance: 1.90
+ - Postal code nearest ice rink distance: 19.90
+ - Postal code nearest sauna distance: 3.10
+ - Postal code nearest tanning salon distance: 1.10
+ - Postal code hospitals excl clinic within 10 km: 1
+ - Postal code hospitals incl clinic within 10 km: 2
+ - Postal code general practitioners within 3 km: 4
+ - Postal code primary schools within 3 km: 9
+ - Postal code secondary schools within 5 km: 5.60
+ - Postal code secondary schools havo vwo within 5 km: 4
+ - Postal code secondary schools vmbo within 5 km: 3.60
+ - Postal code supermarkets within 3 km: 3.60
+ - Postal code groceries within 3 km: 13.60
+ - Postal code restaurants within 3 km: 18
+ - Postal code cafes within 3 km: 1
+ - Postal code snackbars within 3 km: 10.60
+ - Postal code hotels within 10 km: 8
+ - Postal code museums within 10 km: 0.40
+ - Postal code cinemas within 10 km: 1
+ - Postal code department stores within 10 km: 2
+ - Postal code daycares within 3 km: 18
+ - Postal code after school cares within 3 km: 22.60
+ - Postal code attractions within 20 km: 8
+ - Postal code performance venues within 10 km: 2
+ - Insurer A deductible: 150
+ - Insurer B deductible: nedostaje
+ - Insurer C deductible: nedostaje
+ - Insurer D deductible: nedostaje
+ - Insurer E deductible: nedostaje
+ - Insurer F deductible: nedostaje
+ - Insurer G deductible: nedostaje
+ - Insurer H deductible: nedostaje
+ - Insurer I deductible: nedostaje
+ - Insurer J deductible: nedostaje
+ - Insurer K deductible: nedostaje
+ - Insurer A price: 1041.72
+ - Insurer B price: nedostaje
+ - Insurer C price: nedostaje
+ - Insurer D price: nedostaje
+ - Insurer E price: nedostaje
+ - Insurer F price: nedostaje
+ - Insurer G price: nedostaje
+ - Insurer H price: nedostaje
+ - Insurer I price: nedostaje
+ - Insurer J price: nedostaje
+ - Insurer K price: nedostaje
+
+Red 6:
+ - Quote id: 7
+ - Vehicle ownership duration: 0
+ - Vehicle number plate: 13d6db1b12
+ - Coverage: limited_casco
+ - Claim free years: 0
+ - Payment frequency: monthly
+ - Contractor birthdate: 1979-07-07
+ - Is driver owner: da
+ - Usage: private_use
+ - Second driver birthdate: nedostaje
+ - Second driver claim free years: nedostaje
+ - Vehicle maker: citroen
+ - Vehicle model: c4
+ - Vehicle fuel type: petrol
+ - Vehicle engine size: 1749
+ - Vehicle power: 92
+ - Vehicle net weight: 1485
+ - Vehicle gross weight: 2200
+ - Vehicle length: 459
+ - Vehicle width: nedostaje
+ - Vehicle height: nedostaje
+ - Vehicle number of cylinders: 4
+ - Vehicle number of doors: 4
+ - Vehicle number of seats: 7
+ - Vehicle number of wheels: 4
+ - Vehicle primary color: brown
+ - Vehicle value new: 30784
+ - Vehicle net max power: 92
+ - Vehicle net max power electric: nedostaje
+ - Vehicle nominal continuous max power: nedostaje
+ - Vehicle power to net weight ratio: 0.06
+ - Vehicle age: 17
+ - Vehicle first registration date: 2008-07-31
+ - Vehicle country first registration date: 2008-07-31
+ - Vehicle last registration date: 2025-08-05
+ - Vehicle years since country first registration: 17
+ - Vehicle inspection report date: nedostaje
+ - Vehicle inspection expiry date: 2026-03-20
+ - Vehicle inspection number of deficiencies found: nedostaje
+ - Vehicle year of last odometer report: 2025
+ - Vehicle odometer verdict code: 0
+ - Vehicle planned annual mileage: 10000
+ - Vehicle is imported: ne
+ - Vehicle is imported within last 12 months: ne
+ - Vehicle can be registered: da
+ - Vehicle has open recall: ne
+ - Vehicle is marked for export: ne
+ - Vehicle is taxi: ne
+ - Postal code: 25
+ - Province: Province_12
+ - Municipality: Municipality_1
+ - Municipality crimes per 1000: 5.90
+ - Postal code latitude: 52.05
+ - Postal code longitude: 4.30
+ - Postal code distance to border: 61.75
+ - Postal code urban category: 1
+ - Postal code population: 30
+ - Postal code households: 20
+ - Postal code houses: 20
+ - Postal code average household size: 1.60
+ - Postal code 0 to 15 years inhabitants ratio: 0.17
+ - Postal code 25 to 45 years inhabitants ratio: 0.33
+ - Postal code 45 to 65 years inhabitants ratio: 0.33
+ - Postal code 65 years and older inhabitants ratio: nedostaje
+ - Postal code single person households ratio: 0.75
+ - Postal code multi person households without children ratio: nedostaje
+ - Postal code two parent households ratio: nedostaje
+ - Postal code social benefit recipients ratio: 0.50
+ - Postal code address density: 211.47
+ - Postal code average property value: 127
+ - Postal code owner occupied houses ratio: nedostaje
+ - Postal code rental houses ratio: nedostaje
+ - Postal code houses owned by rental association ratio: nedostaje
+ - Postal code multi family houses ratio: 1
+ - Postal code houses built before 1945 ratio: nedostaje
+ - Postal code houses built 45 to 65 ratio: 1
+ - Postal code houses built 65 to 75 ratio: nedostaje
+ - Postal code houses built 75 to 85 ratio: nedostaje
+ - Postal code houses built 85 to 95 ratio: nedostaje
+ - Postal code houses built 95 to 05 ratio: nedostaje
+ - Postal code houses built 05 to 15 ratio: nedostaje
+ - Postal code nearest train station distance: 1.80
+ - Postal code nearest train transfer station distance: 3.30
+ - Postal code nearest motorway ramp distance: 2.70
+ - Postal code nearest hospital excl clinic distance: 3.50
+ - Postal code nearest hospital incl clinic distance: 1.80
+ - Postal code nearest general practitioner distance: 0.30
+ - Postal code nearest gp post service distance: 3.50
+ - Postal code nearest pharmacy distance: 0.40
+ - Postal code nearest primary school distance: 0.60
+ - Postal code nearest secondary school distance: 0.90
+ - Postal code nearest secondary school havo vwo distance: 0.90
+ - Postal code nearest secondary school vmbo distance: 0.90
+ - Postal code nearest supermarket distance: 0.50
+ - Postal code nearest groceries distance: 0.40
+ - Postal code nearest restaurant distance: 0.50
+ - Postal code nearest cafe distance: 0.50
+ - Postal code nearest snackbar distance: 0.10
+ - Postal code nearest hotel distance: 2.40
+ - Postal code nearest library distance: 1
+ - Postal code nearest museum distance: 3.50
+ - Postal code nearest cinema distance: 4.10
+ - Postal code nearest department store distance: 1.70
+ - Postal code nearest fire station distance: 1.50
+ - Postal code nearest daycare distance: 0.40
+ - Postal code nearest after school care distance: 0.50
+ - Postal code nearest attraction distance: 1.50
+ - Postal code nearest performance venue distance: 1.50
+ - Postal code nearest music venue distance: 3.80
+ - Postal code nearest swimming pool distance: 1.60
+ - Postal code nearest ice rink distance: 5.90
+ - Postal code nearest sauna distance: 6
+ - Postal code nearest tanning salon distance: 1.10
+ - Postal code hospitals excl clinic within 10 km: 6
+ - Postal code hospitals incl clinic within 10 km: 10
+ - Postal code general practitioners within 3 km: 25
+ - Postal code primary schools within 3 km: 39
+ - Postal code secondary schools within 5 km: 20
+ - Postal code secondary schools havo vwo within 5 km: 8
+ - Postal code secondary schools vmbo within 5 km: 18
+ - Postal code supermarkets within 3 km: 41
+ - Postal code groceries within 3 km: 262
+ - Postal code restaurants within 3 km: 114
+ - Postal code cafes within 3 km: 115
+ - Postal code snackbars within 3 km: 122
+ - Postal code hotels within 10 km: 105
+ - Postal code museums within 10 km: 31
+ - Postal code cinemas within 10 km: 7
+ - Postal code department stores within 10 km: 23
+ - Postal code daycares within 3 km: 90
+ - Postal code after school cares within 3 km: 51
+ - Postal code attractions within 20 km: 21
+ - Postal code performance venues within 10 km: 25
+ - Insurer A deductible: 150
+ - Insurer B deductible: 150
+ - Insurer C deductible: 135
+ - Insurer D deductible: 0
+ - Insurer E deductible: 150
+ - Insurer F deductible: 0
+ - Insurer G deductible: nedostaje
+ - Insurer H deductible: nedostaje
+ - Insurer I deductible: nedostaje
+ - Insurer J deductible: 150
+ - Insurer K deductible: 0
+ - Insurer A price: 147.04
+ - Insurer B price: 146.24
+ - Insurer C price: 146.46
+ - Insurer D price: 134.95
+ - Insurer E price: 242.76
+ - Insurer F price: 128.90
+ - Insurer G price: nedostaje
+ - Insurer H price: nedostaje
+ - Insurer I price: nedostaje
+ - Insurer J price: 97.72
+ - Insurer K price: 217.47
+
+Red 7:
+ - Quote id: 8
+ - Vehicle ownership duration: 0
+ - Vehicle number plate: 5c648569bd
+ - Coverage: mtpl
+ - Claim free years: 0
+ - Payment frequency: monthly
+ - Contractor birthdate: 1988-05-09
+ - Is driver owner: da
+ - Usage: private_use
+ - Second driver birthdate: nedostaje
+ - Second driver claim free years: nedostaje
+ - Vehicle maker: mazda
+ - Vehicle model: mazda
+ - Vehicle fuel type: petrol
+ - Vehicle engine size: 1798
+ - Vehicle power: 85
+ - Vehicle net weight: 1370
+ - Vehicle gross weight: 2090
+ - Vehicle length: 426
+ - Vehicle width: nedostaje
+ - Vehicle height: nedostaje
+ - Vehicle number of cylinders: 4
+ - Vehicle number of doors: 4
+ - Vehicle number of seats: 7
+ - Vehicle number of wheels: 4
+ - Vehicle primary color: black
+ - Vehicle value new: 37514
+ - Vehicle net max power: 85
+ - Vehicle net max power electric: nedostaje
+ - Vehicle nominal continuous max power: nedostaje
+ - Vehicle power to net weight ratio: 0.06
+ - Vehicle age: 18
+ - Vehicle first registration date: 2007-04-27
+ - Vehicle country first registration date: 2007-04-27
+ - Vehicle last registration date: 2025-03-10
+ - Vehicle years since country first registration: 18
+ - Vehicle inspection report date: 2025-11-21
+ - Vehicle inspection expiry date: 2026-11-21
+ - Vehicle inspection number of deficiencies found: 1
+ - Vehicle year of last odometer report: 2025
+ - Vehicle odometer verdict code: 0
+ - Vehicle planned annual mileage: 30001
+ - Vehicle is imported: ne
+ - Vehicle is imported within last 12 months: ne
+ - Vehicle can be registered: da
+ - Vehicle has open recall: da
+ - Vehicle is marked for export: ne
+ - Vehicle is taxi: ne
+ - Postal code: 14
+ - Province: Province_8
+ - Municipality: Municipality_242
+ - Municipality crimes per 1000: 3.36
+ - Postal code latitude: 52.50
+ - Postal code longitude: 4.99
+ - Postal code distance to border: 113.49
+ - Postal code urban category: 3
+ - Postal code population: nedostaje
+ - Postal code households: nedostaje
+ - Postal code houses: nedostaje
+ - Postal code average household size: nedostaje
+ - Postal code 0 to 15 years inhabitants ratio: nedostaje
+ - Postal code 25 to 45 years inhabitants ratio: nedostaje
+ - Postal code 45 to 65 years inhabitants ratio: nedostaje
+ - Postal code 65 years and older inhabitants ratio: nedostaje
+ - Postal code single person households ratio: nedostaje
+ - Postal code multi person households without children ratio: nedostaje
+ - Postal code two parent households ratio: nedostaje
+ - Postal code social benefit recipients ratio: nedostaje
+ - Postal code address density: 314.50
+ - Postal code average property value: nedostaje
+ - Postal code owner occupied houses ratio: nedostaje
+ - Postal code rental houses ratio: nedostaje
+ - Postal code houses owned by rental association ratio: nedostaje
+ - Postal code multi family houses ratio: nedostaje
+ - Postal code houses built before 1945 ratio: nedostaje
+ - Postal code houses built 45 to 65 ratio: nedostaje
+ - Postal code houses built 65 to 75 ratio: nedostaje
+ - Postal code houses built 75 to 85 ratio: nedostaje
+ - Postal code houses built 85 to 95 ratio: nedostaje
+ - Postal code houses built 95 to 05 ratio: nedostaje
+ - Postal code houses built 05 to 15 ratio: nedostaje
+ - Postal code nearest train station distance: nedostaje
+ - Postal code nearest train transfer station distance: nedostaje
+ - Postal code nearest motorway ramp distance: nedostaje
+ - Postal code nearest hospital excl clinic distance: nedostaje
+ - Postal code nearest hospital incl clinic distance: nedostaje
+ - Postal code nearest general practitioner distance: nedostaje
+ - Postal code nearest gp post service distance: nedostaje
+ - Postal code nearest pharmacy distance: nedostaje
+ - Postal code nearest primary school distance: nedostaje
+ - Postal code nearest secondary school distance: nedostaje
+ - Postal code nearest secondary school havo vwo distance: nedostaje
+ - Postal code nearest secondary school vmbo distance: nedostaje
+ - Postal code nearest supermarket distance: nedostaje
+ - Postal code nearest groceries distance: nedostaje
+ - Postal code nearest restaurant distance: nedostaje
+ - Postal code nearest cafe distance: nedostaje
+ - Postal code nearest snackbar distance: nedostaje
+ - Postal code nearest hotel distance: nedostaje
+ - Postal code nearest library distance: nedostaje
+ - Postal code nearest museum distance: nedostaje
+ - Postal code nearest cinema distance: nedostaje
+ - Postal code nearest department store distance: nedostaje
+ - Postal code nearest fire station distance: nedostaje
+ - Postal code nearest daycare distance: nedostaje
+ - Postal code nearest after school care distance: nedostaje
+ - Postal code nearest attraction distance: nedostaje
+ - Postal code nearest performance venue distance: nedostaje
+ - Postal code nearest music venue distance: nedostaje
+ - Postal code nearest swimming pool distance: nedostaje
+ - Postal code nearest ice rink distance: nedostaje
+ - Postal code nearest sauna distance: nedostaje
+ - Postal code nearest tanning salon distance: nedostaje
+ - Postal code hospitals excl clinic within 10 km: nedostaje
+ - Postal code hospitals incl clinic within 10 km: nedostaje
+ - Postal code general practitioners within 3 km: nedostaje
+ - Postal code primary schools within 3 km: nedostaje
+ - Postal code secondary schools within 5 km: nedostaje
+ - Postal code secondary schools havo vwo within 5 km: nedostaje
+ - Postal code secondary schools vmbo within 5 km: nedostaje
+ - Postal code supermarkets within 3 km: nedostaje
+ - Postal code groceries within 3 km: nedostaje
+ - Postal code restaurants within 3 km: nedostaje
+ - Postal code cafes within 3 km: nedostaje
+ - Postal code snackbars within 3 km: nedostaje
+ - Postal code hotels within 10 km: nedostaje
+ - Postal code museums within 10 km: nedostaje
+ - Postal code cinemas within 10 km: nedostaje
+ - Postal code department stores within 10 km: nedostaje
+ - Postal code daycares within 3 km: nedostaje
+ - Postal code after school cares within 3 km: nedostaje
+ - Postal code attractions within 20 km: nedostaje
+ - Postal code performance venues within 10 km: nedostaje
+ - Insurer A deductible: 0
+ - Insurer B deductible: 0
+ - Insurer C deductible: 0
+ - Insurer D deductible: 0
+ - Insurer E deductible: 0
+ - Insurer F deductible: nedostaje
+ - Insurer G deductible: 0
+ - Insurer H deductible: 0
+ - Insurer I deductible: nedostaje
+ - Insurer J deductible: nedostaje
+ - Insurer K deductible: 0
+ - Insurer A price: 85.01
+ - Insurer B price: 72.68
+ - Insurer C price: 65.67
+ - Insurer D price: 68.91
+ - Insurer E price: 130.83
+ - Insurer F price: nedostaje
+ - Insurer G price: 77.60
+ - Insurer H price: 88.33
+ - Insurer I price: nedostaje
+ - Insurer J price: nedostaje
+ - Insurer K price: 82.98
+
+Red 8:
+ - Quote id: 9
+ - Vehicle ownership duration: 0
+ - Vehicle number plate: 13d6db1b12
+ - Coverage: limited_casco
+ - Claim free years: 0
+ - Payment frequency: monthly
+ - Contractor birthdate: 1979-07-07
+ - Is driver owner: da
+ - Usage: private_use
+ - Second driver birthdate: nedostaje
+ - Second driver claim free years: nedostaje
+ - Vehicle maker: citroen
+ - Vehicle model: c4
+ - Vehicle fuel type: petrol
+ - Vehicle engine size: 1749
+ - Vehicle power: 92
+ - Vehicle net weight: 1485
+ - Vehicle gross weight: 2200
+ - Vehicle length: 459
+ - Vehicle width: nedostaje
+ - Vehicle height: nedostaje
+ - Vehicle number of cylinders: 4
+ - Vehicle number of doors: 4
+ - Vehicle number of seats: 7
+ - Vehicle number of wheels: 4
+ - Vehicle primary color: brown
+ - Vehicle value new: 30784
+ - Vehicle net max power: 92
+ - Vehicle net max power electric: nedostaje
+ - Vehicle nominal continuous max power: nedostaje
+ - Vehicle power to net weight ratio: 0.06
+ - Vehicle age: 17
+ - Vehicle first registration date: 2008-07-31
+ - Vehicle country first registration date: 2008-07-31
+ - Vehicle last registration date: 2025-08-05
+ - Vehicle years since country first registration: 17
+ - Vehicle inspection report date: nedostaje
+ - Vehicle inspection expiry date: 2026-03-20
+ - Vehicle inspection number of deficiencies found: nedostaje
+ - Vehicle year of last odometer report: 2025
+ - Vehicle odometer verdict code: 0
+ - Vehicle planned annual mileage: 10000
+ - Vehicle is imported: ne
+ - Vehicle is imported within last 12 months: ne
+ - Vehicle can be registered: da
+ - Vehicle has open recall: ne
+ - Vehicle is marked for export: ne
+ - Vehicle is taxi: ne
+ - Postal code: 25
+ - Province: Province_12
+ - Municipality: Municipality_1
+ - Municipality crimes per 1000: 5.90
+ - Postal code latitude: 52.05
+ - Postal code longitude: 4.30
+ - Postal code distance to border: 61.75
+ - Postal code urban category: 1
+ - Postal code population: 30
+ - Postal code households: 20
+ - Postal code houses: 20
+ - Postal code average household size: 1.60
+ - Postal code 0 to 15 years inhabitants ratio: 0.17
+ - Postal code 25 to 45 years inhabitants ratio: 0.33
+ - Postal code 45 to 65 years inhabitants ratio: 0.33
+ - Postal code 65 years and older inhabitants ratio: nedostaje
+ - Postal code single person households ratio: 0.75
+ - Postal code multi person households without children ratio: nedostaje
+ - Postal code two parent households ratio: nedostaje
+ - Postal code social benefit recipients ratio: 0.50
+ - Postal code address density: 211.47
+ - Postal code average property value: 127
+ - Postal code owner occupied houses ratio: nedostaje
+ - Postal code rental houses ratio: nedostaje
+ - Postal code houses owned by rental association ratio: nedostaje
+ - Postal code multi family houses ratio: 1
+ - Postal code houses built before 1945 ratio: nedostaje
+ - Postal code houses built 45 to 65 ratio: 1
+ - Postal code houses built 65 to 75 ratio: nedostaje
+ - Postal code houses built 75 to 85 ratio: nedostaje
+ - Postal code houses built 85 to 95 ratio: nedostaje
+ - Postal code houses built 95 to 05 ratio: nedostaje
+ - Postal code houses built 05 to 15 ratio: nedostaje
+ - Postal code nearest train station distance: 1.80
+ - Postal code nearest train transfer station distance: 3.30
+ - Postal code nearest motorway ramp distance: 2.70
+ - Postal code nearest hospital excl clinic distance: 3.50
+ - Postal code nearest hospital incl clinic distance: 1.80
+ - Postal code nearest general practitioner distance: 0.30
+ - Postal code nearest gp post service distance: 3.50
+ - Postal code nearest pharmacy distance: 0.40
+ - Postal code nearest primary school distance: 0.60
+ - Postal code nearest secondary school distance: 0.90
+ - Postal code nearest secondary school havo vwo distance: 0.90
+ - Postal code nearest secondary school vmbo distance: 0.90
+ - Postal code nearest supermarket distance: 0.50
+ - Postal code nearest groceries distance: 0.40
+ - Postal code nearest restaurant distance: 0.50
+ - Postal code nearest cafe distance: 0.50
+ - Postal code nearest snackbar distance: 0.10
+ - Postal code nearest hotel distance: 2.40
+ - Postal code nearest library distance: 1
+ - Postal code nearest museum distance: 3.50
+ - Postal code nearest cinema distance: 4.10
+ - Postal code nearest department store distance: 1.70
+ - Postal code nearest fire station distance: 1.50
+ - Postal code nearest daycare distance: 0.40
+ - Postal code nearest after school care distance: 0.50
+ - Postal code nearest attraction distance: 1.50
+ - Postal code nearest performance venue distance: 1.50
+ - Postal code nearest music venue distance: 3.80
+ - Postal code nearest swimming pool distance: 1.60
+ - Postal code nearest ice rink distance: 5.90
+ - Postal code nearest sauna distance: 6
+ - Postal code nearest tanning salon distance: 1.10
+ - Postal code hospitals excl clinic within 10 km: 6
+ - Postal code hospitals incl clinic within 10 km: 10
+ - Postal code general practitioners within 3 km: 25
+ - Postal code primary schools within 3 km: 39
+ - Postal code secondary schools within 5 km: 20
+ - Postal code secondary schools havo vwo within 5 km: 8
+ - Postal code secondary schools vmbo within 5 km: 18
+ - Postal code supermarkets within 3 km: 41
+ - Postal code groceries within 3 km: 262
+ - Postal code restaurants within 3 km: 114
+ - Postal code cafes within 3 km: 115
+ - Postal code snackbars within 3 km: 122
+ - Postal code hotels within 10 km: 105
+ - Postal code museums within 10 km: 31
+ - Postal code cinemas within 10 km: 7
+ - Postal code department stores within 10 km: 23
+ - Postal code daycares within 3 km: 90
+ - Postal code after school cares within 3 km: 51
+ - Postal code attractions within 20 km: 21
+ - Postal code performance venues within 10 km: 25
+ - Insurer A deductible: 150
+ - Insurer B deductible: 150
+ - Insurer C deductible: 135
+ - Insurer D deductible: 0
+ - Insurer E deductible: 150
+ - Insurer F deductible: 0
+ - Insurer G deductible: nedostaje
+ - Insurer H deductible: nedostaje
+ - Insurer I deductible: nedostaje
+ - Insurer J deductible: 150
+ - Insurer K deductible: 0
+ - Insurer A price: 147.04
+ - Insurer B price: 146.24
+ - Insurer C price: 146.46
+ - Insurer D price: 134.95
+ - Insurer E price: 242.76
+ - Insurer F price: 128.90
+ - Insurer G price: nedostaje
+ - Insurer H price: nedostaje
+ - Insurer I price: nedostaje
+ - Insurer J price: 97.72
+ - Insurer K price: 217.47
+
+Red 9:
+ - Quote id: 10
+ - Vehicle ownership duration: 0
+ - Vehicle number plate: 672bf4af89
+ - Coverage: mtpl
+ - Claim free years: 0
+ - Payment frequency: monthly
+ - Contractor birthdate: 2003-04-30
+ - Is driver owner: da
+ - Usage: private_use
+ - Second driver birthdate: nedostaje
+ - Second driver claim free years: nedostaje
+ - Vehicle maker: bmw
+ - Vehicle model: 116i
+ - Vehicle fuel type: petrol_gas
+ - Vehicle engine size: 1596
+ - Vehicle power: 85
+ - Vehicle net weight: 1268
+ - Vehicle gross weight: 1745
+ - Vehicle length: 0
+ - Vehicle width: 0
+ - Vehicle height: nedostaje
+ - Vehicle number of cylinders: 4
+ - Vehicle number of doors: 4
+ - Vehicle number of seats: 5
+ - Vehicle number of wheels: 4
+ - Vehicle primary color: grey
+ - Vehicle value new: 28132
+ - Vehicle net max power: 85
+ - Vehicle net max power electric: 0
+ - Vehicle nominal continuous max power: 0
+ - Vehicle power to net weight ratio: 0.06
+ - Vehicle age: 19
+ - Vehicle first registration date: 2006-09-08
+ - Vehicle country first registration date: 2006-09-08
+ - Vehicle last registration date: 2025-08-27
+ - Vehicle years since country first registration: 19
+ - Vehicle inspection report date: 2025-01-24
+ - Vehicle inspection expiry date: 2026-03-18
+ - Vehicle inspection number of deficiencies found: 1
+ - Vehicle year of last odometer report: 2025
+ - Vehicle odometer verdict code: 0
+ - Vehicle planned annual mileage: 15000
+ - Vehicle is imported: ne
+ - Vehicle is imported within last 12 months: ne
+ - Vehicle can be registered: da
+ - Vehicle has open recall: da
+ - Vehicle is marked for export: ne
+ - Vehicle is taxi: ne
+ - Postal code: 11
+ - Province: Province_8
+ - Municipality: Municipality_18
+ - Municipality crimes per 1000: 7.83
+ - Postal code latitude: 52.29
+ - Postal code longitude: 4.98
+ - Postal code distance to border: 90.39
+ - Postal code urban category: 2
+ - Postal code population: 35
+ - Postal code households: 15
+ - Postal code houses: 15
+ - Postal code average household size: 2.20
+ - Postal code 0 to 15 years inhabitants ratio: nedostaje
+ - Postal code 25 to 45 years inhabitants ratio: 0.29
+ - Postal code 45 to 65 years inhabitants ratio: 0.29
+ - Postal code 65 years and older inhabitants ratio: 0.29
+ - Postal code single person households ratio: 0.33
+ - Postal code multi person households without children ratio: 0.33
+ - Postal code two parent households ratio: nedostaje
+ - Postal code social benefit recipients ratio: nedostaje
+ - Postal code address density: 136
+ - Postal code average property value: nedostaje
+ - Postal code owner occupied houses ratio: nedostaje
+ - Postal code rental houses ratio: nedostaje
+ - Postal code houses owned by rental association ratio: nedostaje
+ - Postal code multi family houses ratio: nedostaje
+ - Postal code houses built before 1945 ratio: nedostaje
+ - Postal code houses built 45 to 65 ratio: nedostaje
+ - Postal code houses built 65 to 75 ratio: nedostaje
+ - Postal code houses built 75 to 85 ratio: nedostaje
+ - Postal code houses built 85 to 95 ratio: 1
+ - Postal code houses built 95 to 05 ratio: nedostaje
+ - Postal code houses built 05 to 15 ratio: nedostaje
+ - Postal code nearest train station distance: 2.40
+ - Postal code nearest train transfer station distance: 5.80
+ - Postal code nearest motorway ramp distance: 2.80
+ - Postal code nearest hospital excl clinic distance: 2.80
+ - Postal code nearest hospital incl clinic distance: 2.80
+ - Postal code nearest general practitioner distance: 0.60
+ - Postal code nearest gp post service distance: 2.80
+ - Postal code nearest pharmacy distance: 0.60
+ - Postal code nearest primary school distance: 0.60
+ - Postal code nearest secondary school distance: 1.80
+ - Postal code nearest secondary school havo vwo distance: 1.80
+ - Postal code nearest secondary school vmbo distance: 1.80
+ - Postal code nearest supermarket distance: 1
+ - Postal code nearest groceries distance: 0.90
+ - Postal code nearest restaurant distance: 0.90
+ - Postal code nearest cafe distance: 1
+ - Postal code nearest snackbar distance: 1
+ - Postal code nearest hotel distance: 3.20
+ - Postal code nearest library distance: 1.40
+ - Postal code nearest museum distance: 7.90
+ - Postal code nearest cinema distance: 4.70
+ - Postal code nearest department store distance: 3.80
+ - Postal code nearest fire station distance: 2.60
+ - Postal code nearest daycare distance: 0.60
+ - Postal code nearest after school care distance: 0.60
+ - Postal code nearest attraction distance: 2.80
+ - Postal code nearest performance venue distance: 3.70
+ - Postal code nearest music venue distance: 10.10
+ - Postal code nearest swimming pool distance: 3.80
+ - Postal code nearest ice rink distance: 8.90
+ - Postal code nearest sauna distance: 7
+ - Postal code nearest tanning salon distance: 7.30
+ - Postal code hospitals excl clinic within 10 km: 2
+ - Postal code hospitals incl clinic within 10 km: 3
+ - Postal code general practitioners within 3 km: 4
+ - Postal code primary schools within 3 km: 10
+ - Postal code secondary schools within 5 km: 2
+ - Postal code secondary schools havo vwo within 5 km: 2
+ - Postal code secondary schools vmbo within 5 km: 2
+ - Postal code supermarkets within 3 km: 5
+ - Postal code groceries within 3 km: 23
+ - Postal code restaurants within 3 km: 17
+ - Postal code cafes within 3 km: 5
+ - Postal code snackbars within 3 km: 12
+ - Postal code hotels within 10 km: 40
+ - Postal code museums within 10 km: 3
+ - Postal code cinemas within 10 km: 1
+ - Postal code department stores within 10 km: 5
+ - Postal code daycares within 3 km: 20
+ - Postal code after school cares within 3 km: 12
+ - Postal code attractions within 20 km: 12
+ - Postal code performance venues within 10 km: 6
+ - Insurer A deductible: 0
+ - Insurer B deductible: 0
+ - Insurer C deductible: nedostaje
+ - Insurer D deductible: nedostaje
+ - Insurer E deductible: 0
+ - Insurer F deductible: 0
+ - Insurer G deductible: 0
+ - Insurer H deductible: nedostaje
+ - Insurer I deductible: 0
+ - Insurer J deductible: nedostaje
+ - Insurer K deductible: 0
+ - Insurer A price: 267.57
+ - Insurer B price: 342.28
+ - Insurer C price: nedostaje
+ - Insurer D price: nedostaje
+ - Insurer E price: 320.81
+ - Insurer F price: 272.01
+ - Insurer G price: 249.66
+ - Insurer H price: nedostaje
+ - Insurer I price: 276.57
+ - Insurer J price: nedostaje
+ - Insurer K price: 344.11
